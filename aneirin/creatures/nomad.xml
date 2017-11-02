@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<creature id="nomad" name="Nomad">
-
+<creature id="nomad" name="Nomad" speed="10">
+	<graphics char="@" color="brown" />
 </creature>

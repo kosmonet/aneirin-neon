@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<creature id="elf_dark" name="Dark Elf">
-
+<creature id="elf_dark" name="Dark Elf" speed="10">
+	<graphics char="@" color="gray" />
 </creature>

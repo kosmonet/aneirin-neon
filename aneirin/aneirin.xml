@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module id="aneirin">
-  <title>Tales from the Orrery: Aneirin</title>
-  <playable>
-    <id>nord</id>
-    <id>tengri</id>
-    <id>elf_dark</id>
-    <id>dwarf</id>
-    <id>nomad</id>
-    <id>elf_light</id>
-  </playable>
-  <parents />
+	<title>Tales from the Orrery: Aneirin</title>
+	<start map="aneirin" x="34195" y="14805" />
+	<playable>
+		<id>nord</id>
+		<id>drune</id>
+		<id>elf_dark</id>
+		<id>dwarf</id>
+		<id>nomad</id>
+		<id>elf_light</id>
+	</playable>
+	<parents />
 </module>

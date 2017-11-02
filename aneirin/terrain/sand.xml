@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<terrain id="sand" name="sand" text="." color="yellow" />
+<terrain id="sand" name="sand">
+	<graphics text="·" color="yellow" />
+</terrain>

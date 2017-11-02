@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map id="test_in" name="indoor test">
+<map id="test_in" name="indoor test" uid="2" module="aneirin">
 	<size width="100" height="100" />
 	
 	<terrain>
@@ -8,6 +8,10 @@
 		<region id="sand" x="10" y="40" w="20" h="20" />
 		<region id="sand" x="40" y="10" w="20" h="20" />
 	</terrain>
+	
+	<entities>
+		<creature id="goblin" uid="1" x="20" y="10" />
+	</entities>
 	
 	<elevation>
 	</elevation>

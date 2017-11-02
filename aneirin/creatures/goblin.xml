@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<creature id="goblin" name="goblin" />
+<creature id="goblin" name="goblin" speed="20">
+	<graphics char="g" color="green" />
+</creature>

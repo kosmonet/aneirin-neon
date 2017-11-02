@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item id="cup_gold" name="gold cup">
+	<graphics char="!" color="gold" />
+</item>
