@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terrain id="meadow" name="meadow">
+	<graphics text="·" color="lawngreen" />
+</terrain>

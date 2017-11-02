@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terrain id="mud" name="mud">
+ 	<graphics text="·" color="tan" />
+</terrain>
