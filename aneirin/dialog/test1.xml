@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialog id="test">
+	<cnode id="root">
+		<text>How may I help you?</text>
+		<pnode id="a"><text>Where am I?</text></pnode>
+		<pnode id="b"><text>Who are you?</text></pnode>
+		<pnode id="c"><text>What time is it?</text></pnode>
+	</cnode>
+</dialog>

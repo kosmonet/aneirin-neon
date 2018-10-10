@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module id="aneirin">
-	<title>Tales from the Orrery: Aneirin</title>
-	<start map="aneirin" x="34195" y="14805" />
+	<title>Aneirin</title>
+	<subtitle>Tales from the Orrery</subtitle>
+	<start map="aneirin" x="34195" y="14805" money="200">
+		<item id="cup_gold" />
+		<item id="cup_silver" />
+		<item id="cup" />
+	</start>
 	<playable>
 		<id>nord</id>
 		<id>drune</id>
@@ -11,4 +16,5 @@
 		<id>elf_light</id>
 	</playable>
 	<parents />
+	<intro>intro.html</intro>
 </module>

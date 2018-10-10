@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <terrain id="sea" name="salt water">
 	<graphics text="~" color="lightseagreen" />
+	<modifier>liquid</modifier>
 </terrain>

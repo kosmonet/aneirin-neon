@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map id="aneirin" name="Aneirin" uid="1" module="aneirin">
   <size width="40800" height="27400" />
+  <entities>
+  	<creature id="goblin" uid="1" x="34190" y="14810" />
+  	<item id="barrel" uid="2" x="34195" y="14808" />
+  	<item id="coin_gold" uid="3" x="34196" y="14808" />
+  	<item id="coin_silver" uid="4" x="34197" y="14808" />
+  	<item id="coin_silver" uid="5" x="34197" y="14808" />
+  	<item id="coin_gold" uid="6" x="34197" y="14808" />
+  	<item id="coin_gold" uid="7" x="34197" y="14808" />
+  </entities>
+  
   <terrain>
     <region x="0" y="0" w="40800" h="27400" id="sea" />
     <region x="10000" y="14200" w="800" h="4800" id="grass" />
@@ -929,5 +939,4 @@
     <region x="11600" y="19000" w="200" h="800" id="sand" />
   </terrain>
   <elevation />
-  <entities />
 </map>
