@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothing id="hat" name="hat" slot="head">
+	<graphics char="%" color="white" />
+</clothing>

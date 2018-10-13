@@ -4,8 +4,8 @@
 	<subtitle>Tales from the Orrery</subtitle>
 	<start map="aneirin" x="34195" y="14805" money="200">
 		<item id="cup_gold" />
-		<item id="cup_silver" />
-		<item id="cup" />
+		<item id="hat" />
+		<item id="helmet" />
 	</start>
 	<playable>
 		<id>nord</id>
