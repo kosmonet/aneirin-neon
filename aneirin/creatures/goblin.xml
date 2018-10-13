@@ -2,4 +2,5 @@
 <creature id="goblin" name="Goblin" speed="20">
 	<graphics char="g" color="green" />
 	<stats str="10" con="10" dex="10" int="10" wis="10" cha="10" />
+	<description>Tribal goblins live in the wastes of Aneirin.</description>
 </creature>

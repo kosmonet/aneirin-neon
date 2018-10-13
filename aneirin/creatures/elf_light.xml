@@ -2,4 +2,5 @@
 <creature id="elf_light" name="Light Elf" speed="10">
 	<graphics char="@" color="silver" />
 	<stats str="10" con="10" dex="10" int="11" wis="10" cha="9" />
+	<description>The expansionist Light Elves of Grönlo have set their sights on Aneirin.</description>
 </creature>

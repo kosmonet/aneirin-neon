@@ -2,4 +2,5 @@
 <creature id="elf_dark" name="Dark Elf" speed="10">
 	<graphics char="@" color="gray" />
 	<stats str="10" con="10" dex="10" int="10" wis="10" cha="10" />
+	<description>The Dark Elves serve the empire of Grönlo. For now.</description>
 </creature>

@@ -2,4 +2,5 @@
 <creature id="nomad" name="Nomad" speed="10">
 	<graphics char="@" color="brown" />
 	<stats str="10" con="10" dex="10" int="10" wis="10" cha="10" />
+	<description>The Nomads roam the wastes of Aneirin.</description>
 </creature>
