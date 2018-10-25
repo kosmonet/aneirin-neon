@@ -2,10 +2,13 @@
 <module id="aneirin">
 	<title>Aneirin</title>
 	<subtitle>Tales from the Orrery</subtitle>
-	<start map="aneirin" x="34195" y="14805" money="200">
+	<!--start map="aneirin" x="34195" y="14805" money="200"-->
+	<start map="kimah" x="10" y="10" money="200">
 		<item id="cup_gold" />
 		<item id="hat" />
 		<item id="helmet" />
+		<item id="dagger" />
+		<spell id="heal" />
 	</start>
 	<playable>
 		<id>nord</id>
