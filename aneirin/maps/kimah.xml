@@ -5,12 +5,16 @@
 	<terrain>
 		<region id="grass" x="0" y="0" w="100" h="100" />
 		<region id="sand" x="10" y="10" w="20" h="20" />
-		<region id="sand" x="10" y="40" w="20" h="20" />
+		<region id="water" x="10" y="40" w="20" h="20" />
 		<region id="sand" x="40" y="10" w="20" h="20" />
 	</terrain>
 	
 	<entities>
-		<creature id="goblin" uid="1" x="20" y="10" />
+		<creature id="goblin" uid="1" x="20" y="10" dialog="test1" />
+		<creature id="dwarf" uid="2" x="10" y="20" dialog="test2" />
+		<creature id="dwarf" uid="3" x="15" y="15" dialog="test2" />
+		<creature id="dwarf" uid="4" x="20" y="20" dialog="test2" />
+		<item id="coin_gold" uid="5" x="10" y="15" />
 	</entities>
 	
 	<elevation>

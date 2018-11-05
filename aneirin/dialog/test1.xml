@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dialog id="test">
-	<cnode id="root">
-		<text>How may I help you?</text>
-		<pnode id="a"><text>Where am I?</text></pnode>
-		<pnode id="b"><text>Who are you?</text></pnode>
-		<pnode id="c"><text>What time is it?</text></pnode>
-	</cnode>
+<dialog id="test1">
+	<text>How may I help you?</text>
+	<pnode id="a">
+		<text>Where am I?</text>
+		<cnode id="a1">
+			<text>On the island of Aneirin.</text>
+			<pnode id="a1a" type="continue">
+				<cnode id="a1a1">
+					<text>Near the town of Kusunda.</text>
+					<pnode id="a1a1a" type="end">
+						<text>Goodbye!</text>
+					</pnode>
+				</cnode>
+			</pnode>
+		</cnode>
+	</pnode>
+	<pnode id="b">
+		<text>Who are you?</text>
+		<cnode id="b1">
+			<text>Nobody.</text>
+			<pnode id="b1a" type="end">
+				<text>Goodbye!</text>
+			</pnode>
+			<pnode id="b1b">
+				<text>What do you do?</text>
+				<cnode id="b1b1">
+					<text>Nothing.</text>
+					<pnode id="b1b1a" type="end">
+						<text>Goodbye!</text>
+					</pnode>
+				</cnode>
+			</pnode>
+		</cnode>
+	</pnode>
+	<pnode id="c">
+		<text>What time is it?</text>
+		<cnode id="c1">
+			<text>Too late.</text>
+			<pnode id="c1a" type="end">
+				<text>Goodbye!</text>
+			</pnode>
+			<pnode id="c1b" type="link" link="test1">
+				<text>I have another question.</text>
+			</pnode>
+		</cnode>
+	</pnode>
 </dialog>

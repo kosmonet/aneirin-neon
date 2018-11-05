@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothing id="ring_heal" name="healing ring" slot="ring_left" weight="1">
+	<graphics char="∘" color="gold" />
+	<magic effect="heal" magnitude="5" />
+</clothing>

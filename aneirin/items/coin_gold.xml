@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item id="coin_gold" name="gold coin">
+<coin id="coin_gold" name="gold coin" price="100">
 	<graphics char="€" color="gold" />
-</item>
+</coin>

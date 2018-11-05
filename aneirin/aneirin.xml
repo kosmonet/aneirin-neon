@@ -8,7 +8,10 @@
 		<item id="hat" />
 		<item id="helmet" />
 		<item id="dagger" />
+		<item id="ring_heal" />
 		<spell id="heal" />
+		<spell id="freeze" />
+		<spell id="burn" />
 	</start>
 	<playable>
 		<id>nord</id>

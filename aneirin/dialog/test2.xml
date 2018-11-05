@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialog id="test2">
+	<text>What?</text>
+	<pnode id="a">
+		<text>What do you do?</text>
+		<cnode id="a1">
+			<text>Nothing.</text>
+			<pnode id="a1a" type="end">
+				<text>Goodbye!</text>
+			</pnode>
+		</cnode>
+	</pnode>
+	<pnode id="b">
+		<text>Why are you here?</text>
+		<cnode id="b1">
+			<text>None of your business.</text>
+			<pnode id="b1a" type="end">
+				<text>Goodbye!</text>
+			</pnode>
+		</cnode>
+	</pnode>
+</dialog>

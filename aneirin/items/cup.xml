@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item id="cup" name="cup">
-	<graphics char="!" color="white" />
+<item id="cup" name="cup" weight="30">
+	<graphics char="∪" color="white" />
 </item>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item id="barrel" name="barrel">
+<container id="barrel" name="barrel">
 	<graphics char="⚱" color="brown" />
-</item>
+</container>

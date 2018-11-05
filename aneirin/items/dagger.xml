@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<weapon id="dagger" name="dagger" dmg="1d4">
+<weapon id="dagger" name="dagger" dmg="1d4" weight="50">
 	<graphics char="|" color="white" />
 </weapon>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<armor id="helmet" name="helmet" slot="head" rating="5">
+<armor id="helmet" name="helmet" slot="head" rating="20" weight="120">
 	<graphics char="%" color="white" />
 </armor>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spell id="burn" name="overheat" effect="burn" duration="1" magnitude="5" target="self" />
