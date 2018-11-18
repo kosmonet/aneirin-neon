@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clothing id="hat" name="hat" slot="head" weight="15">
+<clothing id="hat" name="hat" weight="15">
+	<clothing slot="head" />
 	<graphics char="%" color="white" />
 </clothing>

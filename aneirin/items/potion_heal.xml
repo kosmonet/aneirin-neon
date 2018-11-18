@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<potion id="potion_heal" name="healing potion" weight="5">
+	<graphics char="!" color="peachpuff" />
+	<magic effect="heal" magnitude="5" />
+</potion>

@@ -9,6 +9,7 @@
 		<item id="helmet" />
 		<item id="dagger" />
 		<item id="ring_heal" />
+		<item id="potion_heal" />
 		<spell id="heal" />
 		<spell id="freeze" />
 		<spell id="burn" />
