@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<door id="door" name="door">
+	<graphics char="/" color="brown">
+		<opened char="/" />
+		<closed char="+" />
+		<locked char="+" />
+	</graphics>
+</door>

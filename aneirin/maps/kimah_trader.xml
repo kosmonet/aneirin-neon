@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map id="kimah_trader" name="Blacksmith" uid="3" module="aneirin">
+	<size width="11" height="11" />
+
+	<entities>
+		<creature id="dwarf" uid="1" x="2" y="1" dialog="test1">
+			<service id="healer" />
+			<service id="trade" />
+			<faction id="kimah" />
+		</creature>
+		<creature id="dwarf" uid="2" x="1" y="2" dialog="test2">
+			<faction id="kimah" />
+		</creature>
+		<item id="coin_gold" uid="3" x="1" y="5" />
+		<item id="barrel" uid="4" x="3" y="2">
+			<item id="cup_silver" uid="5" />
+			<item id="cup_gold" uid="6" />
+		</item>
+		<item id="door" uid="7" x="10" y="5">
+			<link map="kimah" x="4" y="63">Kimah</link>
+		</item>
+	</entities>
+
+	<labels />
+	<elevation />
+
+	<terrain>
+		<region x="0" y="0" w="11" h="11" id="wall_stone" />
+		<region x="1" y="1" w="9" h="9" id="rock" />
+		<region x="10" y="5" w="1" h="1" id="rock" />
+	</terrain>
+</map>
