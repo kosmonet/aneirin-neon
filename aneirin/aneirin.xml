@@ -23,5 +23,5 @@
 		<id>elf_light</id>
 	</playable>
 	<parents />
-	<intro>intro.html</intro>
+	<intro>intro</intro>
 </module>
